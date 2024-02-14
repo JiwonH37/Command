@@ -1,2 +1,2 @@
 # Command
-This is a user interactive program that allows users to enter commands and get wanted outputs. 
+This is a user interactive program that allows users to enter commands and get wanted outputs. The users can choose if they want to create a file in a specific directory or load the file that is already created. Then, it asks for the username, password, and biography and users can always change the information by entering E. It is able to print or edit the information the user wants. This program is designed in python and implements importing class, path, for loop, while loop, if/else statement, and using separate modules. 
